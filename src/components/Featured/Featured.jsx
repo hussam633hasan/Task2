@@ -17,8 +17,8 @@ function Featured() {
     return (
         <section className="Featured">
             <div className="Featuredimages">
-                <img className="featured-icon" src="/images/featured-icon.png" />
-                <img className="featured-img" src='/images/featured.jpg' />
+                <img className="featured-icon" src="./images/featured-icon.png" />
+                <img className="featured-img" src='./images/featured.jpg' />
             </div>
             <div className="HM">
                 <div className="Featuredtxt">
@@ -42,14 +42,14 @@ function Featured() {
             </div>
             <div className="info">
                 <div className="info-hh">
-                    <img src="/images/info-icon-01.png" />
+                    <img src="./images/info-icon-01.png" />
                     <div>
                         <h1>250 m2</h1>
                         <p>Total Flat Space</p>
                     </div>
                 </div>
                 <div className="info-hh">
-                    <img src="/images/info-icon-02.png" />
+                    <img src="./images/info-icon-02.png" />
                     <div>
                         <h1>Contract</h1>
                         <p>Contract Ready</p>
@@ -57,7 +57,7 @@ function Featured() {
                 </div>
                 <div className="info-hh">
                     <div>
-                        <img src="/images/info-icon-03.png" />
+                        <img src="./images/info-icon-03.png" />
                         <p>Process</p>
                     </div>
                     <div>
@@ -67,7 +67,7 @@ function Featured() {
                 </div>
                 <div className="info-hh">
                     <div>
-                        <img src="/images/info-icon-04.png" />
+                        <img src="./images/info-icon-04.png" />
                         <p>Control</p>
                     </div>
                     <div>

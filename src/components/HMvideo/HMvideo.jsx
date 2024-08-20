@@ -11,7 +11,7 @@ function HMvideo() {
             <a href='https://www.youtube.com/'><FontAwesomeIcon icon={faPlay} style={{color: "#f35525",}} /></a>
         </div>
         <div className='vedioframe'>
-            <img src="/images/video-frame.jpg"/>
+            <img src="./images/video-frame.jpg"/>
         </div>
         <div className='counterparent' >
             <div className='counter'>

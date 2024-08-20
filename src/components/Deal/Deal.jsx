@@ -39,7 +39,7 @@ function Deal() {
                     </div>
                 </div>
                 <div className="Dealimg">
-                    <img src="/images/deal-01.jpg" />
+                    <img src="./images/deal-01.jpg" />
                 </div>
                 <div className="Dealtxt">
                     <h4>Extra Info About Property</h4>

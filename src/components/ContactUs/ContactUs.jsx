@@ -16,19 +16,19 @@ function ContactUs() {
                     <input type="email" placeholder="Email address" />
                     <input type="text" placeholder="Subject" />
                     <textarea placeholder="Message"></textarea>
-                    <button class="btn2">Send</button>
+                    <button className="btn2">Send</button>
                 </form>
             </div>
             <div className="footerContact">
                 <div className="phone">
-                    <img src="images/phone-icon.png" />
+                    <img src="./images/phone-icon.png" />
                     <div>
                         <h6>010-020-0340</h6>
                         <span>Phone Number</span>
                     </div>
                 </div>
                 <div className="email">
-                    <img src="images/email-icon.png" />
+                    <img src="./images/email-icon.png" />
                     <div>
                         <h6>info@villa.co</h6>
                         <span>Business Email</span>

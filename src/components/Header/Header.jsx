@@ -37,7 +37,7 @@ const Header = () => {
           key={index}
           className={slideIndex === index + 1 ? 'slide active-anim' : 'slide'}
         >
-          <img src={`/images/banner-0${index + 1}.jpg`} />
+          <img src={`./images/banner-0${index + 1}.jpg`} />
         </div>
       ))}
       <span className='headertxt'>
